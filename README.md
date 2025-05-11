@@ -32,6 +32,7 @@ Here are some of my favorite projects that I have worked on:
 | [nr 2](https://github.com/JohnnyArachnid/University/tree/main/2024-2025/Techniki%20WWW/Projekt/Projekt%202) | A website with a blog dedicated to science fiction. The application was created in the node.js environment using technologies such as Express, Sequelize and Ejs. |
 | [nr 3](https://github.com/JohnnyArachnid/University/tree/main/2024-2025/Interfejsy%20Graficzne/Projekt) | A website for purchasing simulated public transportation tickets for the city of Cracow. The platform's functionalities are implemented using standard web technologies, including HTML, CSS, and JavaScript. |
 | [nr 4](https://github.com/JohnnyArachnid/Courses/tree/main/Coursera-Meta-Front-End-Developer-Professional/Little-Lemon-Project-Final) | Little Lemon website built specifically for Meta's Front-End Developer certification on Coursera using technologies like React and Typescript. |
+| [nr 5](https://github.com/JohnnyArachnid/Projects/tree/main/Ocado%20Internship%20Data%20Analyst%20Task) | A data analysis project focused on enhancing grocery delivery time predictions using Python and Jupyter Notebook. The analysis was implemented with Pandas and Seaborn to visualize and segment delivery data based on factors such as sector, order size, and timing discrepancies. |
 
 ---
 
